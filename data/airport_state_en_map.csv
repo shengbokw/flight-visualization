@@ -1,0 +1,1786 @@
+DET,Michigan,US26
+DTW,Michigan,US26
+YIP,Michigan,US26
+SFO,California,US06
+EMB,California,US06
+JCC,California,US06
+JID,California,US06
+WHP,California,US06
+JLX,California,US06
+VNY,California,US06
+LAX,California,US06
+CCD,California,US06
+JCX,California,US06
+JBP,California,US06
+JWC,California,US06
+JUC,California,US06
+JSN,California,US06
+SEA,Washington,US53
+BFI,Washington,US53
+LKE,Washington,US53
+CHI,Illinois,US17
+ORD,Illinois,US17
+DPA,Illinois,US17
+GYY,Illinois,US17
+PWK,Illinois,US17
+RFD,Illinois,US17
+CGX,Illinois,US17
+MDW,Illinois,US17
+FLU,New York,US36
+EWR,New York,US36
+LGA,New York,US36
+SWF,New York,US36
+JRE,New York,US36
+JRB,New York,US36
+JRA,New York,US36
+TSS,New York,US36
+ZYP,New York,US36
+ZRP,New York,US36
+JFK,New York,US36
+BOF,Missouri,US29
+JPN,Missouri,US29
+ZWU,Missouri,US29
+DCA,Missouri,US29
+IAD,Missouri,US29
+CLD,California,US06
+NZY,California,US06
+SAN,California,US06
+MYF,California,US06
+SEE,California,US06
+SDM,California,US06
+NKX,California,US06
+SLC,Utah,US49
+DAL,Texas,US48
+JNH,Texas,US48
+JMD,Texas,US48
+DFW,Texas,US48
+ADS,Texas,US48
+DNE,Texas,US48
+JDB,Texas,US48
+RBD,Texas,US48
+EDF,Alaska,US02
+ANC,Alaska,US02
+FRN,Alaska,US02
+MRI,Alaska,US02
+GUM,#N/A,#N/A
+UAM,#N/A,#N/A
+HIK,Hawaii,US15
+HNL,Hawaii,US15
+PIT,Pennsylvania,US42
+AGC,Pennsylvania,US42
+CVA,Pennsylvania,US42
+RNO,Nevada,US32
+ELP,Texas,US48
+BIF,Texas,US48
+MMR,Texas,US48
+AUS,Texas,US48
+MKE,Wisconsin,US55
+MWC,Wisconsin,US55
+STL,Missouri,US29
+CPS,Missouri,US29
+SUS,Missouri,US29
+LUK,Ohio,US39
+CVG,Ohio,US39
+CLE,Ohio,US39
+CGF,Ohio,US39
+BKL,Ohio,US39
+NBG,Louisiana,US22
+NEW,Louisiana,US22
+MSY,Louisiana,US22
+MCO,Florida,US12
+ISM,Florida,US12
+ORL,Florida,US12
+SFB,Florida,US12
+DWS,Florida,US12
+NQX,Florida,US12
+EYW,Florida,US12
+SBA,California,US06
+SZN,California,US06
+TUS,Arizona,US04
+AVW,Arizona,US04
+DMA,Arizona,US04
+SKF,Texas,US48
+SSF,Texas,US48
+SAT,Texas,US48
+MDA,Texas,US48
+RND,Texas,US48
+FFO,Ohio,US39
+MGY,Ohio,US39
+DWF,Ohio,US39
+DAY,Ohio,US39
+MEM,Tennessee,US47
+NQA,Tennessee,US47
+JDT,Minnesota,US27
+MIC,Minnesota,US27
+MSP,Minnesota,US27
+STP,Minnesota,US27
+FCM,Minnesota,US27
+CMH,Ohio,US39
+LCK,Ohio,US39
+OSU,Ohio,US39
+IND,Indiana,US18
+BUF,New York,US36
+ZFZ,New York,US36
+ABE,Pennsylvania,US42
+SNA,California,US06
+DNT,California,US06
+JOC,California,US06
+MSN,Wisconsin,US55
+CLW,Florida,US12
+KYO,Florida,US12
+TPA,Florida,US12
+MCF,Florida,US12
+SPG,Florida,US12
+TPF,Florida,US12
+PIE,Florida,US12
+GEG,Washington,US53
+SFF,Washington,US53
+SKA,Washington,US53
+LEX,Kentucky,US21
+LSD,Kentucky,US21
+BTM,Montana,US30
+RDU,North Carolina,US37
+OMA,Nebraska,US31
+MIQ,Nebraska,US31
+OFF,Nebraska,US31
+CUB,South Carolina,US45
+MMT,South Carolina,US45
+CAE,South Carolina,US45
+OAK,California,US06
+JCE,California,US06
+MLI,Illinois,US17
+OKC,Oklahoma,US40
+PWA,Oklahoma,US40
+DWN,Oklahoma,US40
+TIK,Oklahoma,US40
+MTN,Maryland,US24
+BWI,Maryland,US24
+ZBP,Maryland,US24
+GBO,Maryland,US24
+TCL,Alabama,US01
+BOI,Idaho,US16
+JAC,Wyoming,US56
+BIL,Montana,US30
+ABQ,New Mexico,US35
+CEA,Kansas,US20
+ICT,Kansas,US20
+BEC,Kansas,US20
+IAB,Kansas,US20
+RVS,Oklahoma,US40
+TUL,Oklahoma,US40
+GRR,Michigan,US26
+OGG,Hawaii,US15
+ALB,New York,US36
+ZLY,New York,US36
+SCE,Pennsylvania,US42
+MDT,Pennsylvania,US42
+HAR,Pennsylvania,US42
+ZUG,Pennsylvania,US42
+INT,North Carolina,US37
+FMY,Florida,US12
+RSW,Florida,US12
+PBI,Florida,US12
+LNA,Florida,US12
+MHT,New Hampshire,US33
+BRL,Iowa,US19
+SJC,California,US06
+RHV,California,US06
+SMF,California,US06
+SCK,California,US06
+MHR,California,US06
+MCC,California,US06
+SAC,California,US06
+MMH,California,US06
+BNA,Tennessee,US47
+TYS,Tennessee,US47
+LIT,Arkansas,US05
+GSP,South Carolina,US45
+SPA,South Carolina,US45
+GDC,South Carolina,US45
+GMU,South Carolina,US45
+CRW,West Virginia,US54
+SPI,Illinois,US17
+SBN,Indiana,US18
+FYV,Arkansas,US05
+XNA,Arkansas,US05
+SPZ,Arkansas,US05
+FYM,Tennessee,US47
+AGS,Georgia,US13
+DNL,Georgia,US13
+SHV,Louisiana,US22
+BAD,Louisiana,US22
+DTN,Louisiana,US22
+TVC,Michigan,US26
+JLN,Missouri,US29
+ROA,Virginia,US51
+NDP,Florida,US12
+NPA,Florida,US12
+PNS,Florida,US12
+NUN,Florida,US12
+BGR,Maine,US23
+SGF,Missouri,US29
+CMI,Illinois,US17
+CHA,Tennessee,US47
+FAR,North Dakota,US38
+MBS,Michigan,US26
+EBR,Louisiana,US22
+BTR,Louisiana,US22
+MFE,Texas,US48
+ARA,Louisiana,US22
+LFT,Louisiana,US22
+EVV,Indiana,US18
+PGA,Arizona,US04
+LNK,Nebraska,US31
+ERI,Pennsylvania,US42
+MQT,Michigan,US26
+MKG,Michigan,US26
+TLH,Florida,US12
+EUG,Oregon,US41
+SMD,Indiana,US18
+FWA,Indiana,US18
+TXK,Arkansas,US05
+CKB,West Virginia,US54
+CHO,Virginia,US51
+ATW,Wisconsin,US55
+BZN,Montana,US30
+BFL,California,US06
+WHR,Colorado,US08
+EGE,Colorado,US08
+ASE,Colorado,US08
+AZO,Michigan,US26
+LAN,Michigan,US26
+AMK,Colorado,US08
+DRO,Colorado,US08
+MLB,Florida,US12
+BTV,Vermont,US50
+PWM,Maine,US23
+TOL,Ohio,US39
+TDZ,Ohio,US39
+TDO,Washington,US53
+CHS,South Carolina,US45
+DHN,Alabama,US01
+MTX,Alaska,US02
+FAI,Alaska,US02
+EIL,Alaska,US02
+FBK,Alaska,US02
+CIC,California,US06
+HKS,Mississippi,US28
+JAN,Mississippi,US28
+DAB,Florida,US12
+AIV,Alabama,US01
+ACY,New Jersey,US34
+AIY,New Jersey,US34
+AKB,Alaska,US02
+AKI,Alaska,US02
+AKK,Alaska,US02
+AKN,Alaska,US02
+AKO,Ohio,US39
+AKP,Alaska,US02
+ALI,Texas,US48
+ALN,New Hampshire,US33
+ALW,Washington,US53
+ALX,Alabama,US01
+ALZ,Alaska,US02
+AMA,Texas,US48
+TDW,Texas,US48
+AMW,Iowa,US19
+ANB,Alabama,US01
+RLI,Alabama,US01
+AND,Missouri,US29
+ANI,Alaska,US02
+ANP,Maryland,US24
+ANV,Alaska,US02
+ANW,Nebraska,US31
+ANY,Texas,US48
+AOS,Alaska,US02
+APH,Virginia,US51
+APN,Michigan,US26
+AQY,Alaska,US02
+ARB,Michigan,US26
+ARC,Alaska,US02
+ARX,New Jersey,US34
+ASQ,Nevada,US32
+AST,Oregon,US41
+ASY,North Dakota,US38
+ATE,Oklahoma,US40
+ATK,Alaska,US02
+ATO,Ohio,US39
+ATS,California,US06
+ATT,Alaska,US02
+ATU,Alaska,US02
+AUK,Alaska,US02
+AUM,Minnesota,US27
+AUN,California,US06
+AUO,Alabama,US01
+AUZ,Ohio,US39
+AVL,North Carolina,US37
+AVO,Florida,US12
+AVP,Pennsylvania,US42
+SCR,Pennsylvania,US42
+WBW,Pennsylvania,US42
+AXB,New York,US36
+AXG,Iowa,US19
+AXN,Minnesota,US27
+AXX,New Mexico,US35
+AYZ,New York,US36
+BBB,Vermont,US50
+BBD,Texas,US48
+BBF,Massachusetts,US25
+BBW,Oklahoma,US40
+BCB,Virginia,US51
+BCC,Alaska,US02
+BCE,Utah,US49
+BCJ,Colorado,US08
+BCS,Louisiana,US22
+BCT,Florida,US12
+BDE,Minnesota,US27
+BDR,California,US06
+BDX,Montana,US30
+BDY,Oregon,US41
+BET,Connecticut,US09
+JBT,Connecticut,US09
+BFF,Nebraska,US31
+BFG,Utah,US49
+BFP,Pennsylvania,US42
+BFR,Virginia,US51
+BGE,Washington,US53
+BGQ,Minnesota,US27
+BGT,Arizona,US04
+BHB,Maine,US23
+BID,Rhode Island,US44
+BIG,Alaska,US02
+BIH,California,US06
+BIS,North Dakota,US38
+BIX,Mississippi,US28
+BJI,Minnesota,US27
+BKC,Alaska,US02
+BKE,Louisiana,US22
+BKF,Alaska,US02
+BKH,Hawaii,US15
+BKT,Virginia,US51
+BKX,South Dakota,US46
+BLF,West Virginia,US54
+BLH,California,US06
+BLI,Washington,US53
+BLM,New Jersey,US34
+BLU,California,US06
+BLV,Michigan,US26
+BLW,Hawaii,US15
+BMC,Utah,US49
+BML,New Hampshire,US33
+BMX,Alaska,US02
+BNF,Alaska,US02
+BNG,California,US06
+BNL,South Carolina,US45
+BNO,Oregon,US41
+BNW,Iowa,US19
+BOK,Oregon,US41
+BOW,Florida,US12
+BPA,New York,US36
+BPI,Wyoming,US56
+BRW,Alaska,US02
+BSW,Alaska,US02
+BTF,Utah,US49
+BTI,Alaska,US02
+BTL,Michigan,US26
+BTN,South Carolina,US45
+BTP,Pennsylvania,US42
+BTT,Alaska,US02
+BTY,Nevada,US32
+BUB,Nebraska,US31
+BUM,Missouri,US29
+BVD,Alaska,US02
+BVO,Oklahoma,US40
+BVU,Alaska,US02
+BVX,Arkansas,US05
+BVY,Massachusetts,US25
+BWC,California,US06
+BWG,Florida,US12
+BWL,Oklahoma,US40
+BWS,Washington,US53
+BXA,Louisiana,US22
+BXC,Massachusetts,US25
+BXK,Arizona,US04
+BXS,California,US06
+BYA,Alaska,US02
+BYG,Wyoming,US56
+HKA,Arkansas,US05
+BYH,Arkansas,US05
+BYS,California,US06
+BYW,Washington,US53
+BZT,Texas,US48
+CBE,Maryland,US24
+CDB,Alaska,US02
+CDC,Utah,US49
+CDR,Nebraska,US31
+CDV,Tennessee,US47
+CKU,Tennessee,US47
+CEC,California,US06
+CEM,Alaska,US02
+CGA,Alaska,US02
+CGI,Missouri,US29
+CHP,Alaska,US02
+CHU,Alaska,US02
+CIK,Alaska,US02
+CKD,Alaska,US02
+CKX,Alaska,US02
+CLL,Texas,US48
+CLM,Washington,US53
+CLP,Alaska,US02
+COD,Wyoming,US56
+COU,Missouri,US29
+CPR,Wyoming,US56
+NGW,Texas,US48
+NGP,Texas,US48
+CRP,Texas,US48
+CUX,Texas,US48
+CSG,Georgia,US13
+LSF,Georgia,US13
+MKF,Georgia,US13
+CSL,California,US06
+SBP,California,US06
+CYF,Alaska,US02
+FEW,Wyoming,US56
+CYS,Wyoming,US56
+CZN,Alaska,US02
+DBQ,Iowa,US19
+DEC,Mississippi,US28
+DIK,North Dakota,US38
+DIO,Alaska,US02
+DJN,Alaska,US02
+DLG,Alaska,US02
+DUJ,Pennsylvania,US42
+DUT,Alaska,US02
+DVL,North Dakota,US38
+EAA,Colorado,US08
+EAT,Washington,US53
+EAU,Wisconsin,US55
+EDA,Alaska,US02
+EEK,Alaska,US02
+EGX,Alaska,US02
+EHM,Alaska,US02
+EKO,Nevada,US32
+ELD,Arkansas,US05
+ELI,Alaska,US02
+ELM,New York,US36
+ELV,Alaska,US02
+ELY,Nevada,US32
+EMK,Alaska,US02
+ENA,Alaska,US02
+MLL,Alaska,US02
+MLS,Montana,US30
+MLY,Alaska,US02
+MNT,Alaska,US02
+BFM,Alabama,US01
+MOB,Alabama,US01
+MOD,California,US06
+MOT,North Dakota,US38
+MIB,North Dakota,US38
+MOU,Colorado,US08
+MSO,Montana,US30
+MTH,Florida,US12
+MTM,Alaska,US02
+MUE,Hawaii,US15
+MVY,Massachusetts,US25
+MWA,Alabama,US01
+LRN,Washington,US53
+MWH,Washington,US53
+MYR,South Carolina,US45
+CRE,South Carolina,US45
+MYU,Alaska,US02
+NIB,Alaska,US02
+NKI,Alaska,US02
+NLG,Alaska,US02
+NME,Alaska,US02
+NNL,Alaska,US02
+NUI,Alaska,US02
+NUL,Alaska,US02
+NUP,Alaska,US02
+OBU,Alaska,US02
+OLF,Montana,US30
+OME,Alaska,US02
+OOK,Alaska,US02
+ORH,Massachusetts,US25
+ORT,Alaska,US02
+ORV,Alaska,US02
+OSH,Wisconsin,US55
+OTH,Oregon,US41
+OTS,Washington,US53
+OTZ,Alaska,US02
+OXR,California,US06
+PCA,Alaska,US02
+PDB,Alaska,US02
+PEC,Alaska,US02
+PEV,Arkansas,US05
+ECP,Florida,US12
+PFN,Florida,US12
+PGM,Alaska,US02
+PGV,North Carolina,US37
+PHF,Virginia,US51
+ZWW,Virginia,US51
+ZWB,Virginia,US51
+PHO,Alaska,US02
+PIH,Idaho,US16
+UGB,Arkansas,US05
+PIP,Arkansas,US05
+PIR,South Dakota,US46
+PIZ,Alaska,US02
+PKA,Alaska,US02
+PKB,West Virginia,US54
+PLN,Michigan,US26
+PML,Alaska,US02
+PNC,Oklahoma,US40
+PPV,Alaska,US02
+PQI,Maine,US23
+PQS,Alaska,US02
+PRC,Arizona,US04
+PSC,Washington,US53
+PSG,Alaska,US02
+PTA,Alaska,US02
+PTH,Alaska,US02
+PTU,Alaska,US02
+PUB,Colorado,US08
+RAP,South Dakota,US46
+RCA,South Dakota,US46
+RBY,Alaska,US02
+RCE,Washington,US53
+RDD,Iowa,US19
+RDV,Alaska,US02
+RIW,Wyoming,US56
+RKD,Massachusetts,US25
+RMP,Alaska,US02
+ROL,Utah,US49
+RSH,Alaska,US02
+RSJ,Washington,US53
+RST,Minnesota,US27
+JRC,Minnesota,US27
+RUT,Vermont,US50
+SAF,New Mexico,US35
+SCC,Alaska,US02
+SCJ,Alaska,US02
+SCM,Alaska,US02
+SDP,Alaska,US02
+SGU,Utah,US49
+SGY,Alaska,US02
+SHD,Virginia,US51
+SHG,Alaska,US02
+SHH,Alaska,US02
+SHX,Alaska,US02
+SIT,Alaska,US02
+SKK,Alaska,US02
+SLK,New York,US36
+SLN,Kansas,US20
+SLQ,Alaska,US02
+SMK,Alaska,US02
+SMX,California,US06
+SNP,Alaska,US02
+SOV,Alaska,US02
+KIP,Texas,US48
+SPS,Texas,US48
+SRQ,Florida,US12
+SRV,Alaska,US02
+CIU,Michigan,US26
+SSM,Michigan,US26
+INR,Michigan,US26
+STG,Alaska,US02
+SUN,Idaho,US16
+SUX,Iowa,US19
+SVA,Alaska,US02
+SVS,Alaska,US02
+SXP,Alaska,US02
+TAL,Alaska,US02
+TBN,Missouri,US29
+TCT,Alaska,US02
+TEB,New Jersey,US34
+TEX,Colorado,US08
+TIQ,#N/A,#N/A
+TKE,Alaska,US02
+TKJ,Alaska,US02
+TLA,Alaska,US02
+TLJ,Alaska,US02
+TLT,Alaska,US02
+TNC,Alaska,US02
+TNK,Alaska,US02
+TOG,Alaska,US02
+TOP,Kansas,US20
+FOE,Kansas,US20
+TRI,Tennessee,US47
+TSM,New Mexico,US35
+TVF,Minnesota,US27
+TWA,Alaska,US02
+TWD,Washington,US53
+TWF,Idaho,US16
+TYR,Texas,US48
+GTR,Mississippi,US28
+UBS,Mississippi,US28
+UMT,Alaska,US02
+UNK,Alaska,US02
+UTO,Alaska,US02
+VAK,Alaska,US02
+VCT,Texas,US48
+VDZ,Alaska,US02
+VEE,Alaska,US02
+VIS,California,US06
+VAD,Georgia,US13
+VLD,Georgia,US13
+DSI,Florida,US12
+EGI,Florida,US12
+VPS,Florida,US12
+WAA,Alaska,US02
+WBB,Alaska,US02
+WBQ,Alaska,US02
+WKK,Alaska,US02
+WLK,Alaska,US02
+WMK,Alaska,US02
+WMO,Alaska,US02
+WRG,Alaska,US02
+WRL,Wyoming,US56
+WSN,Alaska,US02
+WSX,Washington,US53
+WTK,Alaska,US02
+WTL,Alaska,US02
+WWP,Alaska,US02
+WWT,Alaska,US02
+WYS,Montana,US30
+YKM,Washington,US53
+FCT,Washington,US53
+YUM,Arizona,US04
+LGF,Arizona,US04
+AAF,Florida,US12
+ABL,Alaska,US02
+ABY,Georgia,US13
+NAB,Georgia,US13
+ACT,Texas,US48
+CNW,Texas,US48
+ACV,California,US06
+EKA,California,US06
+NLN,California,US06
+ADG,Michigan,US26
+ADK,Alaska,US02
+ADM,Oklahoma,US40
+AHD,Oklahoma,US40
+ADQ,Alaska,US02
+KDK,Alaska,US02
+ADR,Texas,US48
+AET,Alaska,US02
+AEX,Louisiana,US22
+ESF,Louisiana,US22
+AFO,Oklahoma,US40
+AGN,Alaska,US02
+AHF,Nebraska,US31
+AHH,Wisconsin,US55
+AHN,Georgia,US13
+AHT,Alaska,US02
+AIA,Nebraska,US31
+AIK,South Carolina,US45
+AIN,Alaska,US02
+ESC,Michigan,US26
+ESD,Washington,US53
+EWB,Massachusetts,US25
+EXI,Alaska,US02
+FAT,California,US06
+FCH,California,US06
+FAY,North Carolina,US37
+POB,North Carolina,US37
+FCA,Montana,US30
+FHU,Arizona,US04
+FKL,Texas,US48
+OIL,Texas,US48
+FNT,Michigan,US26
+FOD,Iowa,US19
+FBS,Washington,US53
+FRD,Washington,US53
+FSD,South Dakota,US46
+FSM,Arkansas,US05
+FYU,Alaska,US02
+GAL,Illinois,US17
+GAM,Alaska,US02
+GBD,Kansas,US20
+GCK,Utah,US49
+GDV,Montana,US30
+GFK,North Dakota,US38
+GJT,Colorado,US08
+GLH,Mississippi,US28
+GLV,Alaska,US02
+GNU,Alaska,US02
+GON,Connecticut,US09
+ZGD,Connecticut,US09
+GPZ,Minnesota,US27
+GRB,Wisconsin,US55
+BQV,Alaska,US02
+GST,Alaska,US02
+GTF,Montana,US30
+GFA,Montana,US30
+GUP,New Mexico,US35
+HAE,Arizona,US04
+BGS,Texas,US48
+HCA,Texas,US48
+HCR,Alaska,US02
+HGR,Maryland,US24
+HIB,Minnesota,US27
+HII,Arizona,US04
+HKB,Alaska,US02
+HLB,Indiana,US18
+HNH,Alaska,US02
+HNM,Hawaii,US15
+HNS,Alaska,US02
+HBB,New Mexico,US35
+HOB,New Mexico,US35
+HOM,Alaska,US02
+HON,South Dakota,US46
+HPB,Alaska,US02
+HRL,Texas,US48
+HRO,Arkansas,US05
+HSL,Alaska,US02
+HUS,Alaska,US02
+ZVE,Connecticut,US09
+HVN,Connecticut,US09
+HVR,Montana,US30
+HYA,Massachusetts,US25
+HYG,Alaska,US02
+HYL,Alaska,US02
+IAN,Alaska,US02
+IDA,Idaho,US16
+IFP,Arizona,US04
+IGG,Alaska,US02
+IGM,Arizona,US04
+IKO,Alaska,US02
+GRK,Texas,US48
+HLR,Texas,US48
+ILE,Texas,US48
+ILI,Alaska,US02
+IPT,Pennsylvania,US42
+IRC,Alaska,US02
+IRK,Missouri,US29
+ISN,North Dakota,US38
+ISP,New York,US36
+ITH,New York,US36
+ITO,Hawaii,US15
+IWD,Michigan,US26
+IYK,California,US06
+JBR,Louisiana,US22
+JHM,Hawaii,US15
+JNU,Alaska,US02
+KAE,Alaska,US02
+KAL,Alaska,US02
+KBC,Alaska,US02
+KCC,Alaska,US02
+KCQ,Alaska,US02
+KCL,Alaska,US02
+KCG,Alaska,US02
+KBW,Alaska,US02
+KEB,Alaska,US02
+KEH,Washington,US53
+KEK,Alaska,US02
+KFP,Alaska,US02
+KGK,Alaska,US02
+KGX,Michigan,US26
+KKA,Alaska,US02
+KKH,Alaska,US02
+KKI,Alaska,US02
+KKU,Alaska,US02
+KLG,Alaska,US02
+KLL,Alaska,US02
+KLW,Alaska,US02
+KMO,Alaska,US02
+KNK,Alaska,US02
+KNW,Alaska,US02
+KOT,Alaska,US02
+KPB,Alaska,US02
+KPC,Alaska,US02
+KPN,Alaska,US02
+KPV,Alaska,US02
+KQA,Alaska,US02
+KSM,Pennsylvania,US42
+KTB,Alaska,US02
+KTN,Alaska,US02
+WFB,Alaska,US02
+KTS,Alaska,US02
+KUK,Alaska,US02
+KVC,Alaska,US02
+KVL,Alaska,US02
+KWF,Alaska,US02
+KWK,Alaska,US02
+KWN,Alaska,US02
+KWT,Alaska,US02
+KXA,Alaska,US02
+KYU,Alaska,US02
+LAF,Ohio,US39
+LAR,Wyoming,US56
+REE,Texas,US48
+LBB,Texas,US48
+LBE,Pennsylvania,US42
+LBF,Nebraska,US31
+LBL,Kansas,US20
+LEB,New Hampshire,US33
+LGB,California,US06
+JLB,California,US06
+LMA,Alaska,US02
+LNS,Wisconsin,US55
+ZRL,Wisconsin,US55
+LNY,Hawaii,US15
+LPS,Washington,US53
+LRD,Texas,US48
+AXS,Oklahoma,US40
+LTS,Oklahoma,US40
+LUL,Montana,US30
+PIB,Montana,US30
+LUP,Hawaii,US15
+LUR,Alaska,US02
+LVD,Alaska,US02
+LWS,Idaho,US16
+LWT,Montana,US30
+LYH,Virginia,US51
+MCE,California,US06
+MER,California,US06
+MCG,Alaska,US02
+MCK,Nebraska,US31
+MCW,Iowa,US19
+MFR,Oregon,US41
+MGW,West Virginia,US54
+MHK,Kansas,US20
+MKK,Hawaii,US15
+MKL,Tennessee,US47
+JPD,Maryland,US24
+DRT,Texas,US48
+DLF,Texas,US48
+MVL,Vermont,US50
+EUE,Nevada,US32
+KNB,Utah,US49
+KYL,Florida,US12
+APC,California,US06
+JNP,California,US06
+SMO,California,US06
+WVL,Maine,US23
+JEM,California,US06
+HAF,California,US06
+POU,New York,US36
+BKG,Missouri,US29
+DXR,Connecticut,US09
+FDY,Ohio,US39
+GAI,Maryland,US24
+HHR,California,US06
+MNZ,Virginia,US51
+OUN,Oklahoma,US40
+OWD,Massachusetts,US25
+OCN,California,US06
+PVU,Utah,US49
+JMH,Illinois,US17
+TKF,California,US06
+NXX,Pennsylvania,US42
+WBN,Massachusetts,US25
+UES,Wisconsin,US55
+FWH,Texas,US48
+FTW,Texas,US48
+AFW,Texas,US48
+EKI,Indiana,US18
+OBE,Florida,US12
+OGB,South Carolina,US45
+WHH,Colorado,US08
+WBU,Colorado,US08
+WBI,Colorado,US08
+DAN,Virginia,US51
+DFI,Ohio,US39
+CDS,Texas,US48
+FDK,Maryland,US24
+FFL,Iowa,US19
+GRD,South Carolina,US45
+GYR,Arizona,US04
+JOR,California,US06
+CSN,Nevada,US32
+IKK,Illinois,US17
+CTX,New York,US36
+OSX,Mississippi,US28
+CTZ,North Carolina,US37
+CWI,Iowa,US19
+LAA,Colorado,US08
+RSL,Kansas,US20
+RAC,Wisconsin,US55
+RNZ,New York,US36
+MAE,California,US06
+DXE,Mississippi,US28
+MGR,Georgia,US13
+MUL,Georgia,US13
+OCH,Texas,US48
+LFK,Texas,US48
+PEQ,Texas,US48
+PRO,Oklahoma,US40
+GGE,South Carolina,US45
+SSC,South Carolina,US45
+SUM,South Carolina,US45
+SRU,California,US06
+SCH,New York,US36
+ZTD,New York,US36
+SNK,Texas,US48
+TLR,California,US06
+WGO,Virginia,US51
+WWR,Oklahoma,US40
+IDI,Pennsylvania,US42
+THV,Pennsylvania,US42
+HPT,Iowa,US19
+HUD,Iowa,US19
+LNP,Virginia,US51
+MTW,Wisconsin,US55
+MPR,Kansas,US20
+NPT,Rhode Island,US44
+TIX,Florida,US12
+LRF,Arkansas,US05
+PAE,Washington,US53
+GLB,Arizona,US04
+PVW,Texas,US48
+ROG,Arkansas,US05
+HSI,Nebraska,US31
+IJX,Illinois,US17
+CJN,California,US06
+KIC,California,US06
+RKW,Tennessee,US47
+MMU,New Jersey,US34
+VRB,Florida,US12
+HUM,Louisiana,US22
+CNE,Colorado,US08
+MXC,Utah,US49
+UST,Florida,US12
+CWO,Texas,US48
+MWL,Texas,US48
+RXE,Idaho,US16
+RMG,Georgia,US13
+ISW,Wisconsin,US55
+SPQ,California,US06
+LNN,Ohio,US39
+RLA,Missouri,US29
+LCQ,Florida,US12
+SGH,Ohio,US39
+RZZ,North Carolina,US37
+PWT,Washington,US53
+VSK,Washington,US53
+ILN,Ohio,US39
+JTO,California,US06
+FRR,Virginia,US51
+FBL,Minnesota,US27
+SRW,North Carolina,US37
+LDJ,New Jersey,US34
+LKV,Oregon,US41
+MSV,New York,US36
+PAO,California,US06
+HWD,California,US06
+DCU,Alabama,US01
+LPC,California,US06
+VBG,California,US06
+XES,Wisconsin,US55
+VNC,Florida,US12
+EEN,New Hampshire,US33
+TTD,Oregon,US41
+PCT,New Jersey,US34
+ZTJ,New Jersey,US34
+JGX,California,US06
+JSG,California,US06
+SRF,California,US06
+MJX,New Jersey,US34
+MRC,Tennessee,US47
+ESN,Maryland,US24
+HBK,Arizona,US04
+ZZV,Ohio,US39
+RKH,South Carolina,US45
+PTS,Kansas,US20
+DMN,New Mexico,US35
+EED,California,US06
+SKY,Ohio,US39
+LFI,Virginia,US51
+CLU,Indiana,US18
+GCC,Wyoming,US56
+MDH,Illinois,US17
+LRO,California,US06
+GSH,Indiana,US18
+HBG,Mississippi,US28
+EDG,Maryland,US24
+GSB,North Carolina,US37
+JHY,Massachusetts,US25
+RBL,California,US06
+PVF,California,US06
+WEA,Texas,US48
+PTK,Michigan,US26
+GBR,Massachusetts,US25
+SNL,Oklahoma,US40
+DBN,Georgia,US13
+ERV,Texas,US48
+JVL,Wisconsin,US55
+THA,Tennessee,US47
+TUH,Tennessee,US47
+SRC,Arkansas,US05
+ILG,Delaware,US10
+ZWI,Delaware,US10
+LVM,Montana,US30
+OFK,Nebraska,US31
+UKI,California,US06
+OGD,Utah,US49
+HIF,Utah,US49
+TVL,California,US06
+BZF,California,US06
+GLR,Michigan,US26
+SER,Indiana,US18
+IKB,North Carolina,US37
+GOK,Oklahoma,US40
+MQY,Tennessee,US47
+SVH,North Carolina,US37
+TMA,Georgia,US13
+CEF,Massachusetts,US25
+ZSF,Massachusetts,US25
+CZK,Oregon,US41
+RWF,Minnesota,US27
+NSE,Florida,US12
+NSF,Maryland,US24
+ADW,Maryland,US24
+LCI,New Hampshire,US33
+JBK,California,US06
+WHT,Texas,US48
+HTO,New York,US36
+GWS,Colorado,US08
+HKY,North Carolina,US37
+MPZ,Iowa,US19
+LEW,Maine,US23
+PUC,Utah,US49
+NBU,Illinois,US17
+MIE,Indiana,US18
+TNU,Iowa,US19
+AHM,Oregon,US41
+PTW,Pennsylvania,US42
+GAD,Alabama,US01
+IAG,New York,US36
+MPV,Vermont,US50
+WVI,California,US06
+VPZ,Indiana,US18
+HEZ,Mississippi,US28
+FUL,California,US06
+MXG,Massachusetts,US25
+KPD,Pennsylvania,US42
+BJJ,Ohio,US39
+MFH,Nevada,US32
+SUO,Oregon,US41
+PMD,California,US06
+GFD,Indiana,US18
+ELK,Oklahoma,US40
+ECG,North Carolina,US37
+OCF,Florida,US12
+MWO,Ohio,US39
+SOW,Arizona,US04
+SUA,Florida,US12
+ONO,Oregon,US41
+WLM,Massachusetts,US25
+BAB,California,US06
+MYV,California,US06
+MIO,Oklahoma,US40
+SWD,Alaska,US02
+JSD,Connecticut,US09
+ODC,California,US06
+GUF,Alabama,US01
+FFT,Kentucky,US21
+CGS,Maryland,US24
+GCY,Tennessee,US47
+PYM,Massachusetts,US25
+LVK,California,US06
+HLM,Michigan,US26
+CLK,Oklahoma,US40
+CSM,Oklahoma,US40
+PGD,Florida,US12
+NCQ,Georgia,US13
+MGE,Georgia,US13
+SNS,California,US06
+JMN,Minnesota,US27
+MKT,Minnesota,US27
+AOH,Ohio,US39
+BAF,Massachusetts,US25
+OSB,Missouri,US29
+LGC,Georgia,US13
+RWI,North Carolina,US37
+OCE,Maryland,US24
+SVE,California,US06
+VYS,Illinois,US17
+PRX,Texas,US48
+APG,Maryland,US24
+MHV,California,US06
+FRM,Minnesota,US27
+FOP,Georgia,US13
+NUC,California,US06
+GVT,Texas,US48
+LWC,Kansas,US20
+ORQ,Connecticut,US09
+JOT,Illinois,US17
+ONA,Minnesota,US27
+FEP,Illinois,US17
+TSP,California,US06
+OLM,Washington,US53
+MHS,California,US06
+PSF,Massachusetts,US25
+FPR,Florida,US12
+REH,Delaware,US10
+AWM,Arkansas,US05
+MQI,Massachusetts,US25
+FOB,California,US06
+UCY,Tennessee,US47
+ERR,New Hampshire,US33
+CVR,California,US06
+CCR,California,US06
+DVN,Iowa,US19
+USA,North Carolina,US37
+TBR,Georgia,US13
+SQL,California,US06
+RKC,California,US06
+RMY,California,US06
+GTP,Oregon,US41
+NHZ,Maine,US23
+RBG,Oregon,US41
+FAM,Missouri,US29
+HST,Florida,US12
+JDY,California,US06
+MIW,Iowa,US19
+WWD,New Jersey,US34
+ETS,Alabama,US01
+EDK,Kansas,US20
+PHD,Ohio,US39
+GVL,Georgia,US13
+WSG,Pennsylvania,US42
+CBF,Iowa,US19
+SFZ,Rhode Island,US44
+APF,Florida,US12
+JEF,Missouri,US29
+ISO,North Carolina,US37
+NUQ,California,US06
+WMH,Arkansas,US05
+PBF,Arkansas,US05
+SLG,Arkansas,US05
+NHX,Alabama,US01
+MVC,Alabama,US01
+COE,Idaho,US16
+EOK,Iowa,US19
+MUT,Iowa,US19
+EDE,North Carolina,US37
+LBT,North Carolina,US37
+MEO,North Carolina,US37
+EWN,North Carolina,US37
+SOP,North Carolina,US37
+OCW,North Carolina,US37
+HZL,Pennsylvania,US42
+MEJ,Pennsylvania,US42
+MPO,Pennsylvania,US42
+UKT,Pennsylvania,US42
+EGP,Texas,US48
+FST,Texas,US48
+HTV,Texas,US48
+JKV,Texas,US48
+MPS,Texas,US48
+PSN,Texas,US48
+PPA,Texas,US48
+SEP,Texas,US48
+SLR,Texas,US48
+SWW,Texas,US48
+TPL,Texas,US48
+VHN,Texas,US48
+MFD,Ohio,US39
+DUC,Oklahoma,US40
+DUA,Oklahoma,US40
+FDR,Oklahoma,US40
+MLC,Oklahoma,US40
+HAX,Oklahoma,US40
+MKO,Oklahoma,US40
+RKR,Oklahoma,US40
+SWO,Oklahoma,US40
+LGD,Oregon,US41
+PFC,Oregon,US41
+FKN,Virginia,US51
+FLE,Virginia,US51
+PTB,Virginia,US51
+CLS,Washington,US53
+KLS,Washington,US53
+NUW,Washington,US53
+OMK,Washington,US53
+EVW,Wyoming,US56
+LND,Wyoming,US56
+RWL,Wyoming,US56
+COA,California,US06
+HLI,California,US06
+CKE,California,US06
+NLC,California,US06
+OVE,California,US06
+TNP,California,US06
+WLW,California,US06
+CBK,Kansas,US20
+EMP,Kansas,US20
+EWK,Kansas,US20
+CIG,Colorado,US08
+GXY,Colorado,US08
+PGO,Colorado,US08
+RIL,Colorado,US08
+EKX,Kentucky,US21
+GLW,Kentucky,US21
+HOP,Kentucky,US21
+CEY,Kentucky,US21
+OWB,Kentucky,US21
+OPL,Louisiana,US22
+LWM,Massachusetts,US25
+STJ,Missouri,US29
+DMO,Missouri,US29
+MCB,Mississippi,US28
+PCU,Mississippi,US28
+VKS,Mississippi,US28
+JXN,Michigan,US26
+UIZ,Michigan,US26
+OWA,Minnesota,US27
+LXN,Nebraska,US31
+SPF,South Dakota,US46
+CEU,South Carolina,US45
+RBW,South Carolina,US45
+GFL,New York,US36
+OLE,New York,US36
+RME,New York,US36
+MMI,Tennessee,US47
+CSV,Tennessee,US47
+MOR,Tennessee,US47
+FLD,Wisconsin,US55
+CMY,Wisconsin,US55
+STE,Wisconsin,US55
+SUW,Wisconsin,US55
+EKN,West Virginia,US54
+MRB,West Virginia,US54
+AFN,New Hampshire,US33
+ESO,New Mexico,US35
+LSB,New Mexico,US35
+ONM,New Mexico,US35
+TCS,New Mexico,US35
+CGZ,Arizona,US04
+MZJ,Arizona,US04
+OLS,Arizona,US04
+INW,Arizona,US04
+DNV,Illinois,US17
+MTO,Illinois,US17
+SLO,Illinois,US17
+KKT,Indiana,US18
+OKK,Indiana,US18
+MDN,Indiana,US18
+MZZ,Indiana,US18
+MGC,Indiana,US18
+RID,Indiana,US18
+NPH,Utah,US49
+RIF,Utah,US49
+TRT,Utah,US49
+ENV,Utah,US49
+DNN,Georgia,US13
+LIY,Georgia,US13
+MLJ,Georgia,US13
+PIM,Georgia,US13
+TVI,Georgia,US13
+AYS,Georgia,US13
+VJI,Virginia,US51
+WBR,Michigan,US26
+CAD,Michigan,US26
+CXL,California,US06
+CLR,California,US06
+CGE,Maryland,US24
+CDN,South Carolina,US45
+ICS,Idaho,US16
+CDK,Florida,US12
+GHM,Tennessee,US47
+CNU,Kansas,US20
+CCY,Iowa,US19
+CHK,Oklahoma,US40
+CNH,New Hampshire,US33
+ICL,Iowa,US19
+CKM,Mississippi,US28
+CAO,New Mexico,US35
+CLI,Wisconsin,US55
+CLG,California,US06
+CTH,Pennsylvania,US42
+OLU,Nebraska,US31
+CNK,Kansas,US20
+COP,New York,US36
+CRS,Texas,US48
+CTW,Arizona,US04
+CSE,Colorado,US08
+CSQ,Iowa,US19
+DHT,Texas,US48
+DTL,Minnesota,US27
+DLL,South Carolina,US45
+DGW,Wyoming,US56
+RCR,Indiana,US18
+RCK,Texas,US48
+RKP,Texas,US48
+SBO,Utah,US49
+SYL,California,US06
+SFM,Maine,US23
+SZP,California,US06
+SQA,California,US06
+SES,Alabama,US01
+SEM,Alabama,US01
+SBM,Wisconsin,US55
+SYI,Tennessee,US47
+SNY,Nebraska,US31
+SXQ,Alaska,US02
+SME,Kentucky,US21
+STK,Colorado,US08
+SLB,Iowa,US19
+SUE,Wisconsin,US55
+IRS,Michigan,US26
+TKA,Alaska,US02
+ASN,Alabama,US01
+TRL,Texas,US48
+DLS,Oregon,US41
+HAI,Michigan,US26
+TPH,Nevada,US32
+XSD,Nevada,US32
+TAD,Colorado,US08
+TCC,New Mexico,US35
+USC,South Carolina,US45
+UVA,Texas,US48
+VTN,Nebraska,US31
+VLA,Illinois,US17
+VDI,Georgia,US13
+OEA,Indiana,US18
+AXV,Ohio,US39
+SZL,Missouri,US29
+WWA,Alaska,US02
+ETB,Wisconsin,US55
+WBK,Iowa,US19
+EAN,Wyoming,US56
+HIE,New Hampshire,US33
+ILL,Minnesota,US27
+MWM,Minnesota,US27
+WLD,Kansas,US20
+WMC,Nevada,US32
+OTG,Minnesota,US27
+YKN,South Dakota,US46
+ZPH,Florida,US12
+ESP,Pennsylvania,US42
+ETN,Texas,US48
+ELN,Washington,US53
+EPH,Washington,US53
+EST,Iowa,US19
+EUF,Alabama,US01
+UCE,Louisiana,US22
+FLX,Nevada,US32
+NFL,Nevada,US32
+FFM,Minnesota,US27
+FIL,Utah,US49
+FCY,Arkansas,US05
+FET,Nebraska,US31
+FRH,Indiana,US18
+GLE,Texas,US48
+GBG,Illinois,US17
+GLD,Kansas,US20
+GVE,Virginia,US51
+GVW,Missouri,US29
+GNT,New Mexico,US35
+RVR,Utah,US49
+GRE,Illinois,US17
+GEY,Wyoming,US56
+GUY,Oklahoma,US40
+HVS,South Carolina,US45
+HYR,Wisconsin,US55
+HES,Oregon,US41
+HUT,Kansas,US20
+IMM,Florida,US12
+JAS,Texas,US48
+JCT,Texas,US48
+MVM,Arizona,US04
+ENW,Wisconsin,US55
+LJN,Texas,US48
+NEL,New Jersey,US34
+LVS,New Mexico,US35
+LIC,Colorado,US08
+LOG,Washington,US53
+LMS,Mississippi,US28
+LSK,Wyoming,US56
+MDJ,Oregon,US41
+AGO,Arkansas,US05
+MNN,Ohio,US39
+MFI,Wisconsin,US55
+RNC,Tennessee,US47
+MNM,Michigan,US26
+MLT,Maine,US23
+MHE,South Dakota,US46
+MBY,Missouri,US29
+MIF,Texas,US48
+MGJ,New York,US36
+LLY,New Jersey,US34
+MUO,Idaho,US16
+EOS,Missouri,US29
+NVD,Missouri,US29
+NLE,Michigan,US26
+OGA,Nebraska,US31
+OKM,Oklahoma,US40
+ONL,Nebraska,US31
+ONH,New York,US36
+OOA,Iowa,US19
+LOR,Alabama,US01
+HEY,Alabama,US01
+OZR,Alabama,US01
+OZA,Texas,US48
+PVZ,Ohio,US39
+PYS,California,US06
+PGR,Arkansas,US05
+PJB,Arizona,US04
+PWY,Wyoming,US56
+PLY,Indiana,US18
+POF,Missouri,US29
+PUL,Washington,US53
+PCD,Wisconsin,US55
+PTT,Kansas,US20
+RGR,Texas,US48
+RTN,New Mexico,US35
+RIE,Wisconsin,US55
+NIR,Texas,US48
+FSI,Oklahoma,US40
+SAR,Illinois,US17
+OTM,Iowa,US19
+CUH,Oklahoma,US40
+LTW,Maryland,US24
+HUJ,Oklahoma,US40
+SEG,Pennsylvania,US42
+MPJ,Arkansas,US05
+COT,Texas,US48
+DLN,Montana,US30
+IDP,Kansas,US20
+JDA,Oregon,US41
+LYO,Kansas,US20
+PKF,Wisconsin,US55
+ELZ,New York,US36
+CNO,California,US06
+CPM,California,US06
+CEV,Indiana,US18
+CRO,California,US06
+CKN,Minnesota,US27
+DEH,Iowa,US19
+DYL,Pennsylvania,US42
+DUF,North Carolina,US37
+GRM,Minnesota,US27
+IDH,Idaho,US16
+UPP,Hawaii,US15
+HQM,Washington,US53
+HNB,Indiana,US18
+KPT,Nevada,US32
+EMM,Wyoming,US56
+LXV,Colorado,US08
+LLX,Vermont,US50
+MCD,Michigan,US26
+RRL,Wisconsin,US55
+RNH,Wisconsin,US55
+PSX,Texas,US48
+WPO,Colorado,US08
+PGL,Mississippi,US28
+PSB,Pennsylvania,US42
+PRZ,Oregon,US41
+RFG,Texas,US48
+VDU,Texas,US48
+ROX,Minnesota,US27
+SMN,Idaho,US16
+SGT,Arkansas,US05
+TBC,Arizona,US04
+WAY,Pennsylvania,US42
+SSU,West Virginia,US54
+EYR,Nevada,US32
+CFV,Kansas,US20
+PPF,Kansas,US20
+JBS,Texas,US48
+SUD,Oklahoma,US40
+WDR,Georgia,US13
+ODM,Maryland,US24
+HTH,Nevada,US32
+LWV,Illinois,US17
+SHN,Washington,US53
+MHL,Missouri,US29
+GED,Delaware,US10
+PHT,Tennessee,US47
+SBX,Montana,US30
+VSF,Vermont,US50
+NWH,New Hampshire,US33
+FXY,Iowa,US19
+SUC,Wyoming,US56
+NIN,Alaska,US02
+WOW,Alaska,US02
+TYZ,Arizona,US04
+ISQ,Michigan,US26
+TOC,Georgia,US13
+GUS,Indiana,US18
+CIR,Illinois,US17
+CAR,Maine,US23
+WAH,North Dakota,US38
+HSB,Illinois,US17
+DGL,Arizona,US04
+DUG,Arizona,US04
+BSQ,Arizona,US04
+APT,Tennessee,US47
+SPW,Iowa,US19
+COM,Texas,US48
+MPE,Connecticut,US09
+JLH,Nebraska,US31
+PTL,Alaska,US02
+NDV,District of Columbia,US11
+EVA,Texas,US48
+IRB,Texas,US48
+EDW,California,US06
+RFK,Mississippi,US28
+ANN,Alaska,US02
+ONY,Texas,US48
+OTN,Indiana,US18
+ONN,Alaska,US02
+OTO,North Carolina,US37
+OEO,Nebraska,US31
+KOZ,Alaska,US02
+WSD,New Mexico,US35
+POY,Maine,US23
+DAA,Virginia,US51
+ACB,Texas,US48
+PNF,Maryland,US24
+POH,Iowa,US19
+PXL,Arizona,US04
+PVY,Alaska,US02
+PLK,Missouri,US29
+TTO,South Dakota,US46
+FBR,Wyoming,US56
+CCA,Oklahoma,US40
+DAG,California,US06
+DPG,Utah,US49
+RBF,California,US06
+DSV,Michigan,US26
+VOK,Wisconsin,US55
+DTA,Pennsylvania,US42
+DRU,Wisconsin,US55
+DRE,Michigan,US26
+DEO,Missouri,US29
+DCR,Michigan,US26
+DTR,Washington,US53
+WRI,New Jersey,US34
+DRG,New Hampshire,US33
+KTH,Alaska,US02
+GCD,Washington,US53
+DKK,Indiana,US18
+DOV,Delaware,US10
+FMH,Maine,US23
+FRG,Maine,US23
+VRS,Indiana,US18
+PHP,South Dakota,US46
+FBY,Illinois,US17
+FID,New York,US36
+FLT,Alaska,US02
+PFD,Alaska,US02
+FLP,Arkansas,US05
+WFK,Maine,US23
+FAK,Alaska,US02
+GRN,Texas,US48
+GDH,Colorado,US08
+CUS,New Mexico,US35
+GKN,Alaska,US02
+GDW,Michigan,US26
+GMT,Arkansas,US05
+GWV,Missouri,US29
+GTY,South Dakota,US46
+GNG,Idaho,US16
+PAK,Hawaii,US15
+HNC,North Carolina,US37
+WHD,Alaska,US02
+HVE,Utah,US49
+HNX,Oklahoma,US40
+HWI,Alaska,US02
+AHC,California,US06
+HBO,South Dakota,US46
+BRG,Tennessee,US47
+WSM,Alaska,US02
+WTR,South Dakota,US46
+HBH,Alaska,US02
+HUL,Maine,US23
+HFF,North Carolina,US37
+HGZ,Alaska,US02
+GAB,Nevada,US32
+JHC,Idaho,US16
+GBH,Alaska,US02
+GLS,Indiana,US18
+EFW,New Jersey,US34
+KKK,Alaska,US02
+KYK,Alaska,US02
+CWG,Georgia,US13
+CIN,Ohio,US39
+NGF,Hawaii,US15
+CIB,California,US06
+TWH,California,US06
+AVX,California,US06
+SXC,California,US06
+CZF,Alaska,US02
+CZP,Alaska,US02
+CZZ,Colorado,US08
+CDL,Alaska,US02
+CDW,New Jersey,US34
+CXF,Alaska,US02
+CKV,Texas,US48
+CYE,Iowa,US19
+CLC,Texas,US48
+CCG,Texas,US48
+CKR,Washington,US53
+CTY,Florida,US12
+NRC,California,US06
+NCO,Rhode Island,US44
+LKK,Alaska,US02
+NYG,Virginia,US51
+UIL,Washington,US53
+LOL,Nevada,US32
+KLN,Alaska,US02
+RSP,Alaska,US02
+RSN,Washington,US53
+LTH,Nevada,US32
+POC,California,US06
+ORI,Alaska,US02
+LKS,Florida,US12
+LEM,South Dakota,US46
+LIZ,New York,US36
+LIV,Alaska,US02
+FRI,Kansas,US20
+WRH,Alaska,US02
+RBK,California,US06
+RPX,Montana,US30
+LVL,Pennsylvania,US42
+RDB,California,US06
+RCT,Michigan,US26
+RED,Wisconsin,US55
+RLD,Pennsylvania,US42
+LEE,Georgia,US13
+FLV,Kansas,US20
+TZC,Michigan,US26
+LNR,Wisconsin,US55
+DHB,Washington,US53
+LOW,Virginia,US51
+LFN,Kansas,US20
+RSX,New York,US36
+RTD,Pennsylvania,US42
+RWB,Alaska,US02
+LOT,Illinois,US17
+MYH,Arizona,US04
+MRF,Texas,US48
+MLK,Ohio,US39
+MMS,Mississippi,US28
+MXE,North Carolina,US37
+MLD,Idaho,US16
+MHN,Nebraska,US31
+MXA,Utah,US49
+MGI,Texas,US48
+ASL,Virginia,US51
+XMD,New Jersey,US34
+MXY,Alaska,US02
+MQW,Georgia,US13
+JVI,New Jersey,US34
+MVN,New York,US36
+MCL,New Mexico,US35
+MWS,California,US06
+MUU,Pennsylvania,US42
+NRB,Florida,US12
+MFV,Virginia,US51
+MYK,Washington,US53
+FME,Maryland,US24
+MDO,Alaska,US02
+MEV,Nebraska,US31
+MAW,Illinois,US17
+DRA,Nevada,US32
+NNK,Alaska,US02
+ASH,Minnesota,US27
+NZW,Massachusetts,US25
+ENN,Alaska,US02
+OXC,Connecticut,US09
+OXD,Massachusetts,US25
+FTK,Kentucky,US21
+OWK,Maine,US23
+NTU,West Virginia,US54
+PHK,Florida,US12
+KPK,Nebraska,US31
+PMX,Massachusetts,US25
+NHK,Maryland,US24
+PCE,Ohio,US39
+FPY,Ohio,US39
+PYL,Alaska,US02
+PMB,North Dakota,US38
+PUO,Alaska,US02
+PWD,Montana,US30
+PRW,Wisconsin,US55
+CHZ,Oregon,US41
+CZO,Alaska,US02
+CXC,Alaska,US02
+JDN,Montana,US30
+CKK,Arkansas,US05
+CEX,Alaska,US02
+SAS,California,US06
+SAG,Alaska,US02
+SGW,Missouri,US29
+UMM,Illinois,US17
+KSR,West Virginia,US54
+CWS,Washington,US53
+ENL,Pennsylvania,US42
+MIT,California,US06
+SIV,Wisconsin,US55
+HCB,Alaska,US02
+SFR,California,US06
+PJS,Alaska,US02
+STQ,West Virginia,US54
+SJN,Michigan,US26
+SKW,Alaska,US02
+SCB,Nebraska,US31
+NSL,Minnesota,US27
+WSB,Minnesota,US27
+SSW,Washington,US53
+MMN,Massachusetts,US25
+SOL,Arizona,US04
+TEK,Alaska,US02
+TSG,Alaska,US02
+TPO,Alaska,US02
+TEH,Alaska,US02
+TRX,Michigan,US26
+TRH,California,US06
+TRM,California,US06
+TYE,Alaska,US02
+TKI,Alaska,US02
+HHI,Hawaii,US15
+EPG,Nebraska,US31
+ISS,Maine,US23
+LWL,Minnesota,US27
+EWD,Alaska,US02
+VIH,Missouri,US29
+INK,Texas,US48
+WDN,Washington,US53
+ARG,Arkansas,US05
+UKN,Iowa,US19
+UMB,Alaska,US02
+FIV,Alaska,US02
+WOD,Illinois,US17
+WOO,Alaska,US02
+FOK,Massachusetts,US25
+SMU,Wyoming,US56
+SKJ,Alaska,US02
+PNX,Texas,US48
+FSN,Illinois,US17
+SYA,Alaska,US02
+NCN,Alaska,US02
+WSH,Massachusetts,US25
+PTD,Alaska,US02
+ELA,Wisconsin,US55
+ESW,Massachusetts,US25
+KIB,Alaska,US02
+IML,Nebraska,US31
+INS,Nevada,US32
+MUI,Florida,US12
+UCA,Indiana,US18
+UGS,Alaska,US02
+FAF,Virginia,US51
+HGT,California,US06
+JCY,Oklahoma,US40
+PRF,New York,US36
+MDY,Hawaii,US15
+UNU,Wisconsin,US55
+WNA,Alaska,US02
+CYM,Alaska,US02
+TKL,Alaska,US02
+KKB,Alaska,US02
+KMY,Alaska,US02
+KOY,Alaska,US02
+KPR,Alaska,US02
+KPY,Alaska,US02
+KWP,Alaska,US02
+KZB,Alaska,US02
+OLH,Alaska,US02
+SYB,Alaska,US02
+UGI,Alaska,US02
+GNF,California,US06
+NVN,California,US06
