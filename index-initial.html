@@ -1,0 +1,51 @@
+<!doctype html>
+<head>
+	<meta charset="utf-8">
+	<title>World Map Plain</title>
+	<link href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css" rel="stylesheet">
+	<link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css" rel="stylesheet">
+	<script src="./vendor/d3.geomap.dependencies.min.js"></script>
+	<link href="./css/d3.geomap.css" rel="stylesheet">
+</head>
+<body>
+<div class="container" id="main">
+	<h1>Flights in USA</h1>
+	<div id="map"></div>
+</div>
+<script src="./dist/datamaps.usa.js"></script>
+<script src="./js/d3.geomap.js"></script>
+<script>
+	var year = 2000;
+    fun(year);
+
+	var timer = null;
+	timer = setInterval(
+	    function(){
+	        var node = document.getElementById('map');
+            while (node.hasChildNodes()) {
+                node.removeChild(node.lastChild);
+            }
+	        fun(++year);
+	        if(year>=2008) clearInterval(timer);
+	        },
+		3000);
+
+	function fun(year) {
+        var map = d3.geomap.choropleth()
+            .geofile('./topojson/countries/USA.json')
+            .projection(d3.geo.albersUsa)
+            .column(year)
+            .unitId('flips')
+            .scale(1000)
+            .legend(true);
+
+        d3.csv('./data/flights.csv', function(error, data) {
+            d3.select('#map')
+                .datum(data)
+                .call(map.draw, map);
+        });
+    }
+
+</script>
+</body>
+</html>
