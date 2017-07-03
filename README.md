@@ -15,8 +15,7 @@
 
 由于我想要展示的是美国各州始发航班量随年份增加变化图，所以需要考虑到两个方面的内容。其一：各个州航班量多少的区分，这里使用同一种颜色的不同深度信息来区分各个州的情况，颜色越深表明该州当年航班量越多；其二：航班量数据随时间变化，这一点采用的是每隔3s更新页面显示后一个年份数据的方式，最初的版本为`index-initial.html` ，对应的图形展示为：
 
-![Alt text](./flights-initial.png)
-
+![flight-initial](./flights-initial.png)
 
 
 ### 反馈
@@ -43,7 +42,7 @@
 
 得到最终结果如下:
 
-![Alt text](./flights-final.png)
+![flight-final](./flights-final.png)
 
 
 ### 参考资料
